@@ -14,54 +14,6 @@ I enjoy working close to the **engineering side of ML**: system design, trade-of
 
 ---
 
-## 🔭 What I’m currently working on
-
-Building **end-to-end ML systems**, most recently a  
-🎬 **Hybrid Movie Recommendation System** combining:
-- Content-Based Filtering  
-- Item-Based Collaborative Filtering  
-- Matrix Factorization (FunkSVD from scratch)  
-- Live **Streamlit UI**
-
-This project focuses on **system integration, modularity, and real-world constraints**.
-
----
-
-## 👯 I’m looking to collaborate on
-
-Applied **AI/ML projects** involving:
-- Recommendation systems  
-- Data pipelines & feature engineering  
-- GenAI / agent-based systems  
-- Real-world problem solving (not toy notebooks)
-
----
-
-## 🤝 I’m looking for help with
-
-- Improving **ML system design & scalability**
-- Better **evaluation strategies** for recommender systems
-- Learning **production ML best practices** used in real teams
-
----
-
-## 🌱 I’m currently learning
-
-- Advanced **Recommendation Systems**
-- **ML Engineering** practices
-- **Agent-based GenAI systems** (LangChain / LangGraph)
-
----
-
-## 💬 Ask me about
-
-- Hybrid recommender system design  
-- Matrix factorization from scratch  
-- Streamlit apps for ML systems  
-- Debugging real-world ML pipelines  
-
----
-
 ## ⚡ Fun fact
 
 I enjoy building **full ML systems end-to-end** more than training a single model —  
